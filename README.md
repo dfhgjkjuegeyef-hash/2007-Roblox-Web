@@ -1,5 +1,6 @@
+# WARNING! DO NOT USE IT FOR YOUR REVIVAL!
 # 2007-Roblox-Web
-i modified Nounblox SRC and make it looks like in 2007! have fun with this source code
+### i modified Nounblox SRC and make it looks like in 2007! have fun with this source code
 
 # HOW TO SETUP!
 ## first you need MySQL
@@ -8,5 +9,4 @@ i modified Nounblox SRC and make it looks like in 2007! have fun with this sourc
 ### and change everything to your.
 ### this source code is just visual, 
 ### it litteraly nounblox source code 2007 theme XD
-# Some pages doesn't exist
-have fun!
+### Some pages doesn't exist
